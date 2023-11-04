@@ -1,0 +1,129 @@
+<html lang="pt-br">
+
+<head>
+   <title>Virtuakeo Games</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, minimum-scale=1.0, user-scalable=yes">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="shortcut icon" href="../../../../public/favicon.png">
+   <link rel="stylesheet" type="text/css" href="../../../styles/virtuakeo_news/virtuakeo_news.css">
+</head>
+
+<body>
+   <container class="container_virtuakeo_all_list">
+      <header class="header_virtuakeo_news">
+
+         <img class="img_header_news" src="../../../assents/imgs/virtuakeo_games_lists/The Panthless in Apple TV 4K Apple Arcade.png"
+            alt="The Pathless" />
+      </header>
+
+      <a href="../../../view/virtuakeo_games_list_news/virtuakeo_games_list_news.html">
+         <img class="button_close" src="../../../assents/icons_interface/close_button.svg" alt="Close Button"
+            title="Fechar" />
+      </a>
+
+      <div class="body_virtuakeo_news">
+         <section class="background_news">
+            <h1 class="title">
+                The Pathless na Apple TV 4k + Apple Arcade
+            </h1>
+
+            <h2 class="title"> The Pathless </h2>
+
+            <p>
+                Esse maravilhoso game é desenvolvido pela Annapurna Interactive, no qual você estará na pele de uma arqueira muito corajosa que receberá sua fiel águia durante a trama do game.
+            </p>
+
+            <p>
+                Antes de mais nada, o nome da personagem ficou um pouco misterioso para mim, mas pesquisando um pouco mais cheguei a Hunter.
+            </p>
+
+            <p>
+                The Pathless, em tradução livre para o português do Brasil, pode significar "Sem Caminho", "Sem Rumo"e de fato o game não lhe guia por um mapa. É totalmente livre para criar seu próprio caminho, isso é muito interessante, mas cuidado para não se perder em relação a sua missão real. De purificar os animais e restabelecer a luz ao mundo.
+            </p>
+
+
+            <p>
+                Você chegará a uma linda ilha, mas não se engane o caos está completamente instalado naqueles verdes e belos rios, sua missão é restabelecer a ordem e harmonia.
+            </p>
+
+            <figure>
+               <img class="img_body_news" src="../../../assents/imgs/virtuakeo_games_lists/The Pathless purificando Cernos.png"
+                  alt="Hunter purificando Cernos" />
+                  <figcaption>
+                    <em>
+                        Hunter a purificar Cernos
+                        Imagem por Virtuakeo
+                    </em>
+                  </figcaption>
+            </figure>
+
+            <h1 class="title"> Experiência do game na Apple TV 4+ no Apple Arcade </h1>
+            
+
+            <p>
+                Testei no modo de 128 GBS com suporte a Wi Fi, o game rodou de forma fluída e apresentou ótimos gráficos. Você precisará de um joystick para poder se aventurar na jogatina, mas é uma ideia fantástica. Você vai sentir como se estiver em frente ao console da Apple.
+            </p>
+
+
+            <p>
+                Vale a pena fazer o teste.
+            </p>
+            
+            <h2 class="title"> Veja Virtuakeo hoje </h2>
+            
+
+            
+            <iframe
+               src="https://www.youtube.com/embed/Hn5PVd_-h3M" 
+               title="YouTube video player" 
+               frameborder="0" 
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+               allowfullscreen>
+            </iframe>
+
+
+         </section>
+         <a href="../../../view/virtuakeo_games_list_news/virtuakeo_games_list_news.html">
+            <img class="button_close_bottom" src="../../../assents/icons_interface/close_button.svg" alt="Close Button"
+               width="60em" height="60em" title="Fechar" />
+         </a>
+      </div>
+
+   </container>
+
+   <footer id="footer_dock_bar_virtuakeo_news" class="border_footer">
+
+      <nav id="dock_nav_menu border_nav">
+
+         <ul class="ul_dock_nav_menu border_ul">
+
+            <li class="background_icon_li border_li">
+               <a href="../../../../../index.html">
+                  <img class="shadow_icon_dock border" width="80px" height="80px"
+                     src="../../../assents/icons_dock/home_icon_dock.svg" alt="Inicio" title="Início" />
+               </a>
+            </li>
+            <li class="background_icon_li border_li">
+               <a href="../../../../src/view/virtuakeo_news_initial/virtuakeo_news_initial.html">
+                  <img class="shadow-icon_dock border" width="80px" height="80px"
+                     src="../../../assents/icons_dock/Icon_virtuakeo_news_dock.svg" alt="Virtuakeo News"
+                     title="Virtuakeo News" />
+               </a>
+            </li>
+            <li class="background_icon_li border_li">
+               <a href="https://wa.me/5531995601785?text=Gostaria%20de%20contratar%20seus%20serviços" target="_blank"
+                  rel="noopener noreferrer">
+                  <img class="shadow_icon_dock border" width="80px" height="80px"
+                     src="../../../assents/icons_dock/whatsapp.svg" alt="WhatsApp" title="WhatsApp" />
+               </a>
+            </li>
+         </ul>
+
+      </nav>
+
+   </footer>
+
+</body>
+
+</html>
