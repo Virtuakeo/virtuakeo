@@ -12,7 +12,7 @@ const routes = {
 
 const handlePath = async () => {
     const path = window.location.pathname;
-    const routes = route[path] || routes[404];
+    const route = routes[path] || routes[404];
     const html = await fetch(route).then((data) => data.text());
     document.getElementById("container_home").innerHTML = html;
 };
