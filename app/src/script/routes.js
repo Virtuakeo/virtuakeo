@@ -7,7 +7,7 @@ const route = (event) => {
 
 const routes = {
     "/": "index.html",
-    "/news": "/view/virtuakeo_news_initial/virtuakeo_news_initial.html",
+    "/news": "./app/src/view/virtuakeo_news_initial/virtuakeo_news_initial.html",
     "/contato": "https://wa.me/5531995601785?text=Gostaria%20de%20contratar%20seus%20serviços",
 };
 
