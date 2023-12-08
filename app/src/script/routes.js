@@ -1,5 +1,6 @@
 const route = (event) => {
     event = event || window.event;
+    event.preventDefault();
     window.history.pushState({}, "", event.target.href);
     handlePath();
 };
@@ -12,11 +13,11 @@ const routes = {
 
 const handlePath = async () => {
     const path = window.location.pathname;
-    const route = routes[path] || routes[404];
+    const route = routes[path];
     const html = await fetch(route).then((data) => data.text());
     document.getElementById("container_home").innerHTML = html;
 };
 
 window.onpopstate = handlePath;
-window = route;
+window.route = route;
 handlePath();
